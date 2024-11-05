@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="49868a3a-1ddc-49e4-92e8-c2d6f9c94819" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/error/ErroPicaException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/error/errosBasicos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/generics/Caixa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/generics/CaixaInt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/generics/CaixaNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/generics/ListaUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/generics/Par.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/generics/TestCaixa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lambdas/Calculo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lambdas/Foreach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lambdas/Funcao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lambdas/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lambdas/Main2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lambdas/Main3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lambdas/Multiplicar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lambdas/PredicadoComposicao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lambdas/Produto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lambdas/Soma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/streams/Map.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/streams/criarStreams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/streams/imprimirObjetos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/swing/Observador.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2oFWGtcAMdtPle8jgoRkKMiotPh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Foreach.executor": "Run",
+    "Application.Funcao.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.Main2.executor": "Run",
+    "Application.Main3.executor": "Run",
+    "Application.Map.executor": "Run",
+    "Application.Observador.executor": "Run",
+    "Application.PredicadoComposicao.executor": "Run",
+    "Application.TestCaixa.executor": "Run",
+    "Application.criarStreams.executor": "Run",
+    "Application.errosBasicos.executor": "Run",
+    "Application.imprimirObjetos.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="lambdas" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="49868a3a-1ddc-49e4-92e8-c2d6f9c94819" name="Changes" comment="" />
+      <created>1730465712796</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1730465712796</updated>
+    </task>
+    <servers />
+  </component>
+</project>
