@@ -5,34 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="49868a3a-1ddc-49e4-92e8-c2d6f9c94819" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/error/ErroPicaException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/error/errosBasicos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/generics/Caixa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/generics/CaixaInt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/generics/CaixaNum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/generics/ListaUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/generics/Par.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/generics/TestCaixa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lambdas/Calculo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lambdas/Foreach.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lambdas/Funcao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lambdas/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lambdas/Main2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lambdas/Main3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lambdas/Multiplicar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lambdas/PredicadoComposicao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lambdas/Produto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lambdas/Soma.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/streams/Map.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/streams/criarStreams.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/streams/imprimirObjetos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/swing/Observador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/mysql-connector-java-9.1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jdbc/ConsultarPessoas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jdbc/CriarTabelaPessoas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jdbc/FabricaConexao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jdbc/NovaPessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jdbc/Pessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jdbc/TesteConexao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +23,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Kotlin Class" />
         <option value="Class" />
       </list>
     </option>
@@ -62,25 +44,34 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.CriarBanco.executor": "Run",
+    "Application.CriarTabelaPessoas.executor": "Run",
     "Application.Foreach.executor": "Run",
     "Application.Funcao.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.Main2.executor": "Run",
     "Application.Main3.executor": "Run",
     "Application.Map.executor": "Run",
+    "Application.NovaPessoa.executor": "Run",
     "Application.Observador.executor": "Run",
     "Application.PredicadoComposicao.executor": "Run",
     "Application.TestCaixa.executor": "Run",
+    "Application.TesteConexao.executor": "Run",
     "Application.criarStreams.executor": "Run",
     "Application.errosBasicos.executor": "Run",
     "Application.imprimirObjetos.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true"
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/danizs/Programacao/Udemy_Java_Course/libs",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/libs" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="lambdas" />
     </key>
