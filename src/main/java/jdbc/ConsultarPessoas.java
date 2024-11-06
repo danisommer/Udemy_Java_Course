@@ -22,7 +22,6 @@ public class ConsultarPessoas {
             String nome = resultado.getString("nome");
             pessoas.add(new Pessoa(codigo, nome));
         }
-
         pessoas.forEach(p -> System.out.println(p.getCodigo() + " " + p.getNome()));
 
         stmt.close();
