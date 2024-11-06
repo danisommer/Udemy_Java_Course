@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="49868a3a-1ddc-49e4-92e8-c2d6f9c94819" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/libs/mysql-connector-java-9.1.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jdbc/ConsultarPessoas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jdbc/CriarTabelaPessoas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jdbc/FabricaConexao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jdbc/NovaPessoa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jdbc/Pessoa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jdbc/TesteConexao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="49868a3a-1ddc-49e4-92e8-c2d6f9c94819" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,6 +34,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.ConsultarPessoas.executor": "Run",
     "Application.CriarBanco.executor": "Run",
     "Application.CriarTabelaPessoas.executor": "Run",
     "Application.Foreach.executor": "Run",
@@ -85,6 +76,28 @@
       <option name="presentableId" value="Default" />
       <updated>1730465712796</updated>
     </task>
+    <task id="LOCAL-00001" summary="connections">
+      <option name="closed" value="true" />
+      <created>1730903196108</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1730903196108</updated>
+    </task>
+    <task id="LOCAL-00002" summary="test">
+      <option name="closed" value="true" />
+      <created>1730903311742</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1730903311742</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="connections" />
+    <MESSAGE value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
   </component>
 </project>
