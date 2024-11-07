@@ -4,7 +4,40 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="49868a3a-1ddc-49e4-92e8-c2d6f9c94819" name="Changes" comment="" />
+    <list default="true" id="49868a3a-1ddc-49e4-92e8-c2d6f9c94819" name="Changes" comment="ok">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/mysql-connector-java-9.1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/error/ErroPicaException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/error/errosBasicos.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/generics/Caixa.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/generics/CaixaInt.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/generics/CaixaNum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/generics/ListaUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/generics/Par.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/generics/TestCaixa.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/jdbc/ConsultarPessoas.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/jdbc/CriarTabelaPessoas.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/jdbc/FabricaConexao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/jdbc/NovaPessoa.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/jdbc/Pessoa.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/jdbc/TesteConexao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lambdas/Calculo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lambdas/Foreach.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lambdas/Funcao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lambdas/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lambdas/Main2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lambdas/Main3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lambdas/Multiplicar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lambdas/PredicadoComposicao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lambdas/Produto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lambdas/Soma.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/streams/Map.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/streams/criarStreams.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/streams/imprimirObjetos.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/swing/Observador.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +53,21 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;danisommer&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/danisommer/Udemy_Java_Course.git&quot;,
+    &quot;accountId&quot;: &quot;5eef0649-0c27-4bf3-8473-0351b1657de8&quot;
+  }
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
@@ -55,7 +103,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/home/danizs/Programacao/Udemy_Java_Course/libs",
+    "last_opened_file_path": "/home/meisters/Prog/Udemy_Java",
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
