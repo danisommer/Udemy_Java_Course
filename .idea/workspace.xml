@@ -5,34 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="49868a3a-1ddc-49e4-92e8-c2d6f9c94819" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/error/ErroPicaException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/error/errosBasicos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/generics/Caixa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/generics/CaixaInt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/generics/CaixaNum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/generics/ListaUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/generics/Par.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/generics/TestCaixa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lambdas/Calculo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lambdas/Foreach.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lambdas/Funcao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lambdas/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lambdas/Main2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lambdas/Main3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lambdas/Multiplicar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lambdas/PredicadoComposicao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lambdas/Produto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lambdas/Soma.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/streams/Map.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/streams/criarStreams.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/streams/imprimirObjetos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/swing/Observador.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lambdas/Foreach.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lambdas/Foreach.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/swing/Observador.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/swing/Observador.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +24,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;danisommer&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/danisommer/Udemy_Java_Course.git&quot;,
+    &quot;accountId&quot;: &quot;5eef0649-0c27-4bf3-8473-0351b1657de8&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -72,12 +59,14 @@
     "Application.PredicadoComposicao.executor": "Run",
     "Application.TestCaixa.executor": "Run",
     "Application.criarStreams.executor": "Run",
+    "Application.cu.executor": "Run",
     "Application.errosBasicos.executor": "Run",
     "Application.imprimirObjetos.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true"
+    "kotlin-language-version-configured": "true",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
   <component name="RecentsManager">
