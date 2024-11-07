@@ -1,8 +1,6 @@
 package swing;
 
 import javax.swing.*;
-import java.awt.event.FocusEvent;
-import java.awt.event.FocusListener;
 
 public class Observador {
     public static void main(String[] args) {
