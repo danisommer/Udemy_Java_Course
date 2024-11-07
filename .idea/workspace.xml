@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="49868a3a-1ddc-49e4-92e8-c2d6f9c94819" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lambdas/Foreach.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lambdas/Foreach.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/swing/Observador.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/swing/Observador.java" afterDir="false" />
-    </list>
+    <list default="true" id="49868a3a-1ddc-49e4-92e8-c2d6f9c94819" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +13,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Kotlin Class" />
         <option value="Class" />
       </list>
     </option>
@@ -24,18 +21,6 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory">{
-  &quot;lastFilter&quot;: {
-    &quot;state&quot;: &quot;OPEN&quot;,
-    &quot;assignee&quot;: &quot;danisommer&quot;
-  }
-}</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/danisommer/Udemy_Java_Course.git&quot;,
-    &quot;accountId&quot;: &quot;5eef0649-0c27-4bf3-8473-0351b1657de8&quot;
-  }
-}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -49,27 +34,35 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.ConsultarPessoas.executor": "Run",
+    "Application.CriarBanco.executor": "Run",
+    "Application.CriarTabelaPessoas.executor": "Run",
     "Application.Foreach.executor": "Run",
     "Application.Funcao.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.Main2.executor": "Run",
     "Application.Main3.executor": "Run",
     "Application.Map.executor": "Run",
+    "Application.NovaPessoa.executor": "Run",
     "Application.Observador.executor": "Run",
     "Application.PredicadoComposicao.executor": "Run",
     "Application.TestCaixa.executor": "Run",
+    "Application.TesteConexao.executor": "Run",
     "Application.criarStreams.executor": "Run",
-    "Application.cu.executor": "Run",
     "Application.errosBasicos.executor": "Run",
     "Application.imprimirObjetos.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/danizs/Programacao/Udemy_Java_Course/libs",
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/libs" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="lambdas" />
     </key>
@@ -83,6 +76,28 @@
       <option name="presentableId" value="Default" />
       <updated>1730465712796</updated>
     </task>
+    <task id="LOCAL-00001" summary="connections">
+      <option name="closed" value="true" />
+      <created>1730903196108</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1730903196108</updated>
+    </task>
+    <task id="LOCAL-00002" summary="test">
+      <option name="closed" value="true" />
+      <created>1730903311742</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1730903311742</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="connections" />
+    <MESSAGE value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
   </component>
 </project>
