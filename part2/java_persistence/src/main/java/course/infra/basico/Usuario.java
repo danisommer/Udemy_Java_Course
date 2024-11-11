@@ -1,29 +1,26 @@
-package modelo.basico;
+package course.infra.basico;
 
 import javax.persistence.*;
 
 @Entity
-@Table(name = "tb_produtos")
-public class Produto {
+public class Usuario {
 
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
 
-    @Column(name = "nome", length = 200, nullable = false)
     private String nome;
 
-    @Column(name = "preco", precision = 11, scale = 2, nullable = false)
-    private Double preco;
+    private String email;
 
-    Produto() {
+    public Usuario() {
 
     }
 
-    public Produto(String nome, Double preco){
+    public Usuario(String nome, String email) {
         super();
         this.nome = nome;
-        this.preco = preco;
+        this.email = email;
     }
 
     public Long getId() {
@@ -42,11 +39,11 @@ public class Produto {
         this.nome = nome;
     }
 
-    public Double getPreco() {
-        return preco;
+    public String getEmail() {
+        return email;
     }
 
-    public void setPreco(Double preco) {
-        this.preco = preco;
+    public void setEmail(String email) {
+        this.email = email;
     }
 }

@@ -1,11 +1,10 @@
 package teste.basico;
 
-import modelo.basico.Usuario;
+import course.infra.basico.Usuario;
 
 import javax.persistence.EntityManager;
 import javax.persistence.EntityManagerFactory;
 import javax.persistence.Persistence;
-import java.util.function.Consumer;
 
 public class AlterarUsuario1 {
     public static void main(String[] args) {

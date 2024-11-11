@@ -1,7 +1,7 @@
 package teste.basico;
 
-import infra.DAO;
-import modelo.basico.Produto;
+import course.infra.DAO;
+import course.infra.basico.Produto;
 
 public class NovoProduto {
     public static void main(String[] args) {

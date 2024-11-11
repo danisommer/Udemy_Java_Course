@@ -1,8 +1,8 @@
 package teste.basico;
 
 import java.util.List;
-import infra.ProdutoDAO;
-import modelo.basico.Produto;
+import course.infra.ProdutoDAO;
+import course.infra.basico.Produto;
 
 public class ObterProdutos {
     public static void main(String[] args) {
