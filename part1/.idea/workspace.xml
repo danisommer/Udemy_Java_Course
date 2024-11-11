@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="49868a3a-1ddc-49e4-92e8-c2d6f9c94819" name="Changes" comment="ok">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="49868a3a-1ddc-49e4-92e8-c2d6f9c94819" name="Changes" comment="ok" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,7 +19,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -49,33 +47,33 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.ConsultarPessoas.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CriarBanco.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CriarTabelaPessoas.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Foreach.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Funcao.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Map.executor&quot;: &quot;Run&quot;,
-    &quot;Application.NovaPessoa.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Observador.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PredicadoComposicao.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TestCaixa.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TesteConexao.executor&quot;: &quot;Run&quot;,
-    &quot;Application.criarStreams.executor&quot;: &quot;Run&quot;,
-    &quot;Application.errosBasicos.executor&quot;: &quot;Run&quot;,
-    &quot;Application.imprimirObjetos.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/meisters/Prog/Udemy_Java&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ConsultarPessoas.executor": "Run",
+    "Application.CriarBanco.executor": "Run",
+    "Application.CriarTabelaPessoas.executor": "Run",
+    "Application.Foreach.executor": "Run",
+    "Application.Funcao.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.Main2.executor": "Run",
+    "Application.Main3.executor": "Run",
+    "Application.Map.executor": "Run",
+    "Application.NovaPessoa.executor": "Run",
+    "Application.Observador.executor": "Run",
+    "Application.PredicadoComposicao.executor": "Run",
+    "Application.TestCaixa.executor": "Run",
+    "Application.TesteConexao.executor": "Run",
+    "Application.criarStreams.executor": "Run",
+    "Application.errosBasicos.executor": "Run",
+    "Application.imprimirObjetos.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/danizs/Programacao/Udemy_Java_Course/part1",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/libs" />
@@ -83,6 +81,21 @@
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="lambdas" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="part1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="part1" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -109,13 +122,24 @@
       <option name="project" value="LOCAL" />
       <updated>1730903311742</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="ok">
+      <option name="closed" value="true" />
+      <created>1731065516264</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1731065516264</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
     <MESSAGE value="connections" />
-    <MESSAGE value="ok" />
     <MESSAGE value="test" />
-    <option name="LAST_COMMIT_MESSAGE" value="test" />
+    <MESSAGE value="ok" />
+    <option name="LAST_COMMIT_MESSAGE" value="ok" />
   </component>
 </project>
