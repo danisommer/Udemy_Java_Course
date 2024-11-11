@@ -1,6 +1,6 @@
 package teste.basico;
 
-import course.infra.basico.Usuario;
+import .Usuario;
 
 import javax.persistence.EntityManager;
 import javax.persistence.EntityManagerFactory;

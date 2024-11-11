@@ -1,4 +1,4 @@
-package infra;
+package course.infra;
 
 import javax.persistence.EntityManager;
 import javax.persistence.EntityManagerFactory;

@@ -1,4 +1,4 @@
-package course.infra.basico;
+package modelo.basico;
 
 import javax.persistence.*;
 

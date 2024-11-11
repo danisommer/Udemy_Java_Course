@@ -5,8 +5,10 @@
              xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/persistence http://xmlns.jcp.org/xml/ns/persistence/persistence_2_1.xsd">
     <persistence-unit name="java_persistence">
         <provider>org.hibernate.jpa.HibernatePersistenceProvider</provider>
-        <class>modelo.basico.Usuario</class>
-        <class>modelo.basico.Produto</class>
+        <class>course.infra.basico.Usuario</class>
+        <class>course.infra.basico.Produto</class>
+        <class>course.infra.basico.Cliente</class>
+        <class>course.infra.basico.Assento</class>
         <properties>
             <property name="javax.persistence.jdbc.driver" value="com.mysql.jdbc.Driver"/>
             <property name="javax.persistence.jdbc.url" value="jdbc:mysql://localhost/curso_java"/>

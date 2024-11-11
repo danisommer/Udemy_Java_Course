@@ -1,9 +1,10 @@
-package course.infra.basico;
+package modelo.basico;
 
 import javax.persistence.*;
 
 @Entity
-public class Usuario {
+@Table(name = "clientes")
+public class Cliente {
 
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
@@ -11,16 +12,18 @@ public class Usuario {
 
     private String nome;
 
-    private String email;
+    @OneToOne(cascade = CascadeType.PERSIST)
+    @JoinColumn(name = "assento_id", unique = true)
+    private Assento assento;
 
-    public Usuario() {
+    public Cliente() {
 
     }
 
-    public Usuario(String nome, String email) {
+    public Cliente(String nome, Assento assento) {
         super();
         this.nome = nome;
-        this.email = email;
+        this.assento = assento;
     }
 
     public Long getId() {
@@ -39,11 +42,11 @@ public class Usuario {
         this.nome = nome;
     }
 
-    public String getEmail() {
-        return email;
+    public Assento getAssento() {
+        return assento;
     }
 
-    public void setEmail(String email) {
-        this.email = email;
+    public void setAssento(Assento assento) {
+        this.assento = assento;
     }
 }

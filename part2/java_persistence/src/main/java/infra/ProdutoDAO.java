@@ -1,6 +1,6 @@
-package infra;
+package course.infra;
 
-import modelo.basico.Produto;
+import course.infra.basico.Produto;
 
 public class ProdutoDAO extends DAO<Produto> {
 

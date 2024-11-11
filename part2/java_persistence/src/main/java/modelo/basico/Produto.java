@@ -1,29 +1,29 @@
-package course.infra.basico;
+package modelo.basico;
 
 import javax.persistence.*;
 
 @Entity
-@Table(name = "clientes")
-public class Cliente {
+@Table(name = "tb_produtos")
+public class Produto {
 
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
 
+    @Column(name = "nome", length = 200, nullable = false)
     private String nome;
 
-    @OneToOne(cascade = CascadeType.PERSIST)
-    @JoinColumn(name = "assento_id", unique = true)
-    private Assento assento;
+    @Column(name = "preco", precision = 11, scale = 2, nullable = false)
+    private Double preco;
 
-    public Cliente() {
+    Produto() {
 
     }
 
-    public Cliente(String nome, Assento assento) {
+    public Produto(String nome, Double preco){
         super();
         this.nome = nome;
-        this.assento = assento;
+        this.preco = preco;
     }
 
     public Long getId() {
@@ -42,11 +42,11 @@ public class Cliente {
         this.nome = nome;
     }
 
-    public Assento getAssento() {
-        return assento;
+    public Double getPreco() {
+        return preco;
     }
 
-    public void setAssento(Assento assento) {
-        this.assento = assento;
+    public void setPreco(Double preco) {
+        this.preco = preco;
     }
 }
