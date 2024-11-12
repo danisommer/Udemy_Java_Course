@@ -1,7 +1,22 @@
 package com.course.springboot.models;
 
-public class Client {
-    public Client(int id) {
+public class Cliente {
+    private int id;
+    private String nome;
+    private String cpf;
+
+    public Cliente(int id, String nome, String cpf) {
+        super();
+        this.id = id;
+        this.nome = nome;
+        this.cpf = cpf;
+    }
+
+    public int getId() {
+        return id;
+    }
+
+    public void setId(int id) {
         this.id = id;
     }
 
@@ -13,18 +28,6 @@ public class Client {
         this.nome = nome;
     }
 
-    private int id;
-
-    public int getId() {
-        return id;
-    }
-
-    public void setId(int id) {
-        this.id = id;
-    }
-
-    private String nome;
-
     public String getCpf() {
         return cpf;
     }
@@ -33,5 +36,4 @@ public class Client {
         this.cpf = cpf;
     }
 
-    private String cpf;
 }
