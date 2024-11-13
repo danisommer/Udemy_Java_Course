@@ -1,4 +1,4 @@
-package com.course.springboot.model;
+package com.course.springboot.model.entities;
 
 public class Cliente {
     private int id;
